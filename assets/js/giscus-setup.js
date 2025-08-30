@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "sonderbare-welt/sonderbare-welt.github.io",
+    "data-repo": "sonderbare-welt/sonderbare-welt",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
