@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sonderbare-welt
+  - ukd-uro
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sonderbare-welt/Facharzprotkoll
+  - hutchison/django-fsmedhro
+  - ukd-uro/pretb_streamlit_app_lm
+  - ukd-uro/pretb_rf_app
+  - fachschaft-medizin-rostock/django-fsmedhro
