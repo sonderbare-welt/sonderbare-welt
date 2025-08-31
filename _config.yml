@@ -196,6 +196,7 @@ exclude:
   - _pages/people.md
   - _posts/
   - _projects/
+
 keep_files:
   - CNAME
   - .nojekyll
