@@ -192,10 +192,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/teaching.md
-  - _pages/people.md
-  - _posts/
-  - _projects/
 
 keep_files:
   - CNAME
